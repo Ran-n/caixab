@@ -98,7 +98,3 @@ class cBaseDatos:
 
         # ao rematar facemos commit, funciona sen poñelo
         self.conn.commit()
-        
-
-vBD = cBaseDatos('proba')
-vBD.CrearBD()
