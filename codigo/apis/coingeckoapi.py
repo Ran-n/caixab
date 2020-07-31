@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	31/07/2020 22:55:28
-#+ Editado:	31/07/2020 23:28:04
+#+ Editado:	31/07/2020 23:31:38
 
 import requests as r
 
