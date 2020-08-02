@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	27/07/2020 08:48:52
-#+ Editado:	28/07/2020 21:07:36
+#+ Editado:	01/08/2020 23:05:45
 
 import sqlite3
 from sqlite3 import Error
+import os.path
 
 class cBaseDatos:
     def __init__(self, ficheiro_bd):
@@ -15,16 +16,18 @@ class cBaseDatos:
     def CrearBD(self):
         conn = None
 
-        try:
-            # establecemos conexión coa DB
-            self.conn = sqlite3.connect(self.ficheiro_bd)
-            # chamamos á función de creación das táboas
-            self._CrearTaboas()
-        except Error as e:
-            print(e)
-        finally:
-            if conn:
-                conn.close()
+        # se non existe o ficheiro creamolo
+        if not os.path.isfile(self.ficheiro_bd): 
+            try:
+                # establecemos conexión coa DB
+                self.conn = sqlite3.connect(self.ficheiro_bd)
+                # chamamos á función de creación das táboas
+                self._CrearTaboas()
+            except Error as e:
+                print(e)
+            finally:
+                if conn:
+                    conn.close()
 
     # función interna de creación das táboas
     def _CrearTaboas(self):

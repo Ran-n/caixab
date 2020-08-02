@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	31/07/2020 22:55:28
-#+ Editado:	31/07/2020 23:31:38
+#+ Editado:	01/08/2020 23:07:20
 
 import requests as r
 
@@ -27,7 +27,7 @@ class cCoinGecko:
         return self._conexion_controlada(r.get(url_moeda_ref))
 
     def lista_moedas(self):
-        url_moedas = self.url_base+'coins/list'
+        url_moedas = self.url+'coins/list'
 
         return self._conexion_controlada(r.get(url_moedas))
 
