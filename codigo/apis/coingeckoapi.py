@@ -5,6 +5,7 @@
 #+ Editado:	01/08/2020 23:07:20
 
 import requests as r
+from threading import Thread
 
 class cCoinGecko:
     def __init__(self):

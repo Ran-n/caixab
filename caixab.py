@@ -15,9 +15,10 @@ vBD = sqlite.cBaseDatos('persoal')
 vBD.CrearBD()
 
 vCG = cg.cCoinGecko()
-valor_moedas = vCG.valor_moedas('zum-token,bitcoin,phoneum', 'eur')
+valor_moedas = vCG.valor_moedas('yusd-synthetic-token-expiring-1-september-2020,zulu-republic-token,zum-token,bitcoin,phoneum', 'eur')
+#jprint(vCG.ping())
 #jprint(vCG.lista_moedas_referencia())
-jprint(vCG.lista_moedas())
+jprint([item['id'] for item in vCG.lista_moedas()])
 jprint(valor_moedas)
 
 
