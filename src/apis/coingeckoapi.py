@@ -1,14 +1,15 @@
-#! /usr/bin/python3
+    #! /usr/bin/python3
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	31/07/2020 22:55:28
-#+ Editado:	01/08/2020 23:07:20
+#+ Editado:	05/08/2020 14:17:36
 
 import requests as r
-from threading import Thread
+#import coinapi
 
-class cCoinGecko:
+class cCoinGecko():
     def __init__(self):
+        #super(cCoinGecko, self).__init__()
         self.url = 'https://api.coingecko.com/api/v3/'
 
     def _conexion_controlada(self, resposta):
