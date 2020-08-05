@@ -1,15 +1,13 @@
-    #! /usr/bin/python3
+#! /usr/bin/python3
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	31/07/2020 22:55:28
-#+ Editado:	05/08/2020 14:17:36
+#+ Editado:	05/08/2020 19:42:18
 
 import requests as r
-#import coinapi
 
 class cCoinGecko():
     def __init__(self):
-        #super(cCoinGecko, self).__init__()
         self.url = 'https://api.coingecko.com/api/v3/'
 
     def _conexion_controlada(self, resposta):
@@ -33,7 +31,7 @@ class cCoinGecko():
 
         return self._conexion_controlada(r.get(url_moedas))
 
-    def valor_moedas(self,criptos,moedas):
+    def ratio_moedas(self,criptos,moedas):
         url_valor_moedas = self.url+'simple/price?ids='+criptos+'&vs_currencies='+moedas
 
         return self._conexion_controlada(r.get(url_valor_moedas))
