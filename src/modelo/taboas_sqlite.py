@@ -2,7 +2,9 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	05/08/2020 22:07:24
-#+ Editado:	05/08/2020 22:23:41
+#+ Editado:	06/08/2020 11:47:20
+
+#* Strings de creación das táboas sqlite
 
 # Táboa Conta
 Conta = """

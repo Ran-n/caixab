@@ -2,15 +2,18 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	27/07/2020 08:48:52
-#+ Editado:	05/08/2020 23:38:04
+#+ Editado:	06/08/2020 11:40:52
+
+#* Clase estratexia concreta do patrón estratexia
 
 import sqlite3
 from sqlite3 import Error
 import os
 
-import src.modelo.sqlite_taboas as taboa
+import src.modelo.basedatos as bd
+import src.modelo.taboas_sqlite as taboa
 
-class BaseDatos():
+class Sqlite(bd.BaseDatos):
     def __init__(self, ficheiro_bd):
         '''
             ficheiro_bd > Catex
@@ -27,7 +30,7 @@ class BaseDatos():
         self.conn = sqlite3.connect(self.ficheiro_bd)
 
     # función para desconectarse da base de datos
-    def desconectarDB(self):
+    def desconectarBD(self):
         self.conn.close()
 
     # commit dos cambios

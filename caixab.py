@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	28/07/2020 21:50:39
-#+ Editado:	05/08/2020 19:19:06
+#+ Editado:	06/08/2020 10:43:13
 
 from threading import Thread
 
-import src.modelo.a as a
+import src.controlador as cc
 
-a.valor_moedas()
+cc.valor_moedas()
 
 #vBD.crearTaboa([taboa.Conta, taboa.Divisa, taboa.ValorRelativoDivisa, taboa.Etiqueta, taboa.Transaccion, taboa.EtiquetadoTransaccion])
 #fioBD = Thread(target=vBD.CrearBD())
