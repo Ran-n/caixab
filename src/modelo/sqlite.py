@@ -10,7 +10,7 @@ import sqlite3
 from sqlite3 import Error
 import os
 
-import src.modelo.basedatos as bd
+import src.modelo.interfaz_basedatos as bd
 import src.modelo.taboas_sqlite as taboa
 
 class Sqlite(bd.BaseDatos):

@@ -1,31 +1,32 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
-#+ Creado:	06/08/2020 10:39:29
-#+ Editado:	06/08/2020 11:40:04
+#+ Creado:	06/08/2020 10:51:24
+#+ Editado:	06/08/2020 11:13:21
 
-#* Interface Estratexia do patrón estratexia
+#* clase contexto do patrón estratexia
 
-from abc import ABC, abstractmethod
+import src.modelo.interfaz_basedatos as ibd
 
-class BaseDatos(ABC):
+class BaseDatos:
+    def __init__(self, bd: ibd.BaseDatos):
+        # obrigamos o uso
+        if isinstance(bd, ibd.BaseDatos):
+            self.bd = bd
+        else:
+            raise ValueError("Ten que herdar de " + BaseDatos.__name__)
 
-    @abstractmethod
     def conectarBD(self):
-        pass
+        self.bd.conectarBD()
 
-    @abstractmethod
     def desconectarBD(self):
-        pass
+        self.bd.desconectarBD()
 
-    @abstractmethod
     def commit(self):
-        pass
+        self.bd.commit()
 
-    @abstractmethod
     def crearBD(self):
-        pass
+        self.bd.crearBD()
 
-    @abstractmethod
     def select(self, consulta):
-        pass
+        return self.bd.select(consulta)

@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	31/07/2020 22:55:28
-#+ Editado:	05/08/2020 19:42:18
+#+ Editado:	06/08/2020 13:11:42
 
 import requests as r
 
-class cCoinGecko():
+class CoinGecko:
     def __init__(self):
         self.url = 'https://api.coingecko.com/api/v3/'
 

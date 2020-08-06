@@ -6,19 +6,21 @@
 
 
 import src.modelo.apis.coingeckoapi as cg
+import src.modelo.apis.exchangeratesapi as er
 from src.utils import chave_dado_valor, jprint 
 # contexto do patrón
-import src.modelo.modelo as cm
+import src.modelo.basedatos as BD
 # estratexia concreta
-import src.modelo.sqlite as sqlite
+import src.modelo.sqlite as Sqlite
 
 # mete na base de datos os valores das moedas
 def valor_moedas():
     Select_IdDivisa_Nome_from_Divisa= "select iddivisa, nome from divisa"
 
-    gecko = cg.cCoinGecko()
+    gecko = cg.CoinGecko()
+    exrate = er.ExchangeRate()
 
-    bd = cm.CapaModelo(sqlite.Sqlite('persoal'))
+    bd = BD.BaseDatos(Sqlite.Sqlite('persoal'))
     bd.crearBD()
 
     fias = bd.select(Select_IdDivisa_Nome_from_Divisa)
@@ -30,7 +32,7 @@ def valor_moedas():
             moedas = moedas + ',' + row[1]
 
         jprint(gecko.ratio_moedas(moedas, 'eur'))
-        jprint(gecko.ratio_moedas('usd', 'eur'))
+        jprint(exrate.ratio_fiat('usd'.upper(), 'eur'.upper())['rates']['eur'.upper()])
 
 
 
