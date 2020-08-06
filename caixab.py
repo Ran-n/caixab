@@ -8,7 +8,8 @@ from threading import Thread
 
 import src.capamodelo as cm
 
-cm.valor_moedas()
+cm.valor_moedas('eur')
+cm.cambio_fiat('eur','usd')
 
 #vBD.crearTaboa([taboa.Conta, taboa.Divisa, taboa.ValorRelativoDivisa, taboa.Etiqueta, taboa.Transaccion, taboa.EtiquetadoTransaccion])
 #fioBD = Thread(target=vBD.CrearBD())

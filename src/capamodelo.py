@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	05/08/2020 23:20:53
-#+ Editado:	06/08/2020 11:48:52
+#+ Editado:	06/08/2020 15:56:32
 
 
 import src.modelo.apis.coingeckoapi as cg
@@ -14,11 +14,10 @@ import src.modelo.basedatos as BD
 import src.modelo.sqlite as Sqlite
 
 # mete na base de datos os valores das moedas
-def valor_moedas():
+def valor_moedas(moeda_referencia):
     Select_IdDivisa_Nome_from_Divisa= "select iddivisa, nome from divisa"
 
     gecko = cg.CoinGecko()
-    exrate = er.ExchangeRate()
 
     bd = BD.BaseDatos(Sqlite.Sqlite('persoal'))
     bd.crearBD()
@@ -31,9 +30,15 @@ def valor_moedas():
         for row in fias:
             moedas = moedas + ',' + row[1]
 
-        jprint(gecko.ratio_moedas(moedas, 'eur'))
-        jprint(exrate.ratio_fiat('usd'.upper(), 'eur'.upper())['rates']['eur'.upper()])
+        jprint(gecko.ratio_moedas(moedas, moeda_referencia))
 
+#
+def cambio_fiat(moeda_ini, moeda_fin):
+    exrate = er.ExchangeRate()
+
+    ratio_cambio = exrate.ratio_fiat(moeda_ini.upper(), moeda_fin.upper())['rates'][moeda_fin.upper()]
+
+    print(ratio_cambio)
 
 
 
