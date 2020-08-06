@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Ran-n/caixab)](https://github.com/Ran-n/caixab/blob/master/LICENSE)
+![PowerShell Gallery](https://img.shields.io/badge/plataforma-LiGNUx-lightgrey)
 # caixab
 
 ## Índice/Index:
