@@ -4,7 +4,6 @@
 #+ Creado:	05/08/2020 23:20:53
 #+ Editado:	06/08/2020 15:56:32
 
-
 import src.modelo.apis.coingeckoapi as cg
 import src.modelo.apis.exchangeratesapi as er
 from src.utils import chave_dado_valor, jprint 

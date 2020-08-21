@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	27/07/2020 08:48:52
-#+ Editado:	06/08/2020 11:40:52
+#+ Editado:	21/08/2020 14:38:33
 
 #* Clase estratexia concreta do patrón estratexia
 
@@ -11,6 +11,7 @@ from sqlite3 import Error
 import os
 
 import src.modelo.interfaz_basedatos as bd
+# ficheiro py cos catexs de creación das táboas
 import src.modelo.taboas_sqlite as taboa
 
 class Sqlite(bd.BaseDatos):
@@ -18,6 +19,7 @@ class Sqlite(bd.BaseDatos):
         '''
             ficheiro_bd > Catex
         '''
+
         self.ficheiro_bd = './media/' + ficheiro_bd + '.bd'
         self.conn = sqlite3.connect(self.ficheiro_bd)
         self.taboas = [taboa.Conta, taboa.Divisa, taboa.ValorRelativoDivisa, taboa.Etiqueta, taboa.Transaccion, taboa.EtiquetadoTransaccion]
@@ -61,7 +63,7 @@ class Sqlite(bd.BaseDatos):
     # crea unha ou varias databoas dada unha lista cos creates en catex
     def _crearTaboa(self, taboas):
         '''
-            taboas  > Lista de catexs
+            taboas  > Lista de catexs coas sentenzas de creación
         '''
 
         # collemos o cursor
