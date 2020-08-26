@@ -30,3 +30,11 @@ class BaseDatos:
 
     def select(self, consulta):
         return self.bd.select(consulta)
+
+    '''
+    def update(self, consulta):
+        return self.bd.update(consulta)
+
+    def remove(self, consulta):
+        return self.bd.remove(consulta)
+    '''

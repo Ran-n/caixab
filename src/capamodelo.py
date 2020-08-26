@@ -6,7 +6,8 @@
 
 import src.modelo.apis.coingeckoapi as cg
 import src.modelo.apis.exchangeratesapi as er
-from src.utils import chave_dado_valor, jprint 
+# ficheiro con funcións auxiliares úteis
+from src.utils import chave_dado_valor, jprint
 # contexto do patrón
 import src.modelo.basedatos as BD
 # estratexia concreta
@@ -19,7 +20,7 @@ def valor_moedas(moeda_referencia):
     gecko = cg.CoinGecko()
 
     bd = BD.BaseDatos(Sqlite.Sqlite('persoal'))
-    bd.crearBD()
+    #bd.crearBD()
 
     fias = bd.select(Select_IdDivisa_Nome_from_Divisa)
 
@@ -38,12 +39,3 @@ def cambio_fiat(moeda_ini, moeda_fin):
     ratio_cambio = exrate.ratio_fiat(moeda_ini.upper(), moeda_fin.upper())['rates'][moeda_fin.upper()]
 
     print(ratio_cambio)
-
-
-
-
-
-
-
-
-

@@ -29,3 +29,13 @@ class BaseDatos(ABC):
     @abstractmethod
     def select(self, consulta):
         pass
+
+    '''
+    @abstractmethod
+    def update(self, consulta):
+        pass
+
+    @abstractmethod
+    def remove(self, consulta):
+        pass
+    '''
