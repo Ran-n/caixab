@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	27/07/2020 08:48:52
-#+ Editado:	21/08/2020 14:38:33
+#+ Editado:	26/08/2020 17:27:17
 
 #* Clase estratexia concreta do patrón estratexia
 
@@ -10,9 +10,9 @@ import sqlite3
 from sqlite3 import Error
 import os
 
-import src.modelo.interfaz_basedatos as bd
+import src.modelo.bd.interfaz_basedatos as bd
 # ficheiro py cos catexs de creación das táboas
-import src.modelo.taboas_sqlite as taboa
+import src.modelo.bd.taboas_sqlite as taboa
 
 class Sqlite(bd.BaseDatos):
     def __init__(self, ficheiro_bd):

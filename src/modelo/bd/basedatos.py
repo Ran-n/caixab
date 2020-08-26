@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	06/08/2020 10:51:24
-#+ Editado:	21/08/2020 14:29:58
+#+ Editado:	26/08/2020 17:27:27
 
 #* clase contexto do patrón estratexia
 
-import src.modelo.interfaz_basedatos as ibd
+import src.modelo.bd.interfaz_basedatos as ibd
 
 class BaseDatos:
     def __init__(self, bd: ibd.BaseDatos):

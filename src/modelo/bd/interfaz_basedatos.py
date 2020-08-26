@@ -9,7 +9,6 @@
 from abc import ABC, abstractmethod
 
 class BaseDatos(ABC):
-
     @abstractmethod
     def conectarBD(self):
         pass
