@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	28/07/2020 21:50:39
-#+ Editado:	26/08/2020 17:23:03
+#+ Editado:	28/08/2020 12:07:32
 
 from threading import Thread
 
 import src.modelo.capamodelo as cm
 
-modelo = cm.CapaModelo()
+modelo = cm.CapaModelo('persoal')
 
 modelo.valor_moedas('eur')
 modelo.cambio_fiat('eur','usd')

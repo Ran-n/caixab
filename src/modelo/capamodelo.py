@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #+ Autor:	Ran#
 #+ Creado:	05/08/2020 23:20:53
-#+ Editado:	26/08/2020 17:28:23
+#+ Editado:	28/08/2020 12:10:01
 
 # apis de criptomoedas e cambio entre fiats
 import src.modelo.apis.coingeckoapi as cg
@@ -17,14 +17,17 @@ import src.modelo.bd.basedatos as BD
 import src.modelo.bd.sqlite as Sqlite
 
 class CapaModelo(icm.InterfaceCapaModelo):
+    def __init__ (self, nomeBD):
+        self.nomeBD = nomeBD
+
     # mete na base de datos os valores das moedas
     def valor_moedas(self, moeda_referencia):
         Select_IdDivisa_Nome_from_Divisa= "select iddivisa, nome from divisa"
 
         gecko = cg.CoinGecko()
 
-        bd = BD.BaseDatos(Sqlite.Sqlite('persoal'))
-        #bd.crearBD()
+        bd = BD.BaseDatos(Sqlite.Sqlite(self.nomeBD))
+        bd.crearBD()
 
         fias = bd.select(Select_IdDivisa_Nome_from_Divisa)
 

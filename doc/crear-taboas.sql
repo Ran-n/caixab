@@ -37,15 +37,22 @@ CREATE TABLE "Etiqueta" (
 
 CREATE TABLE "Transaccion" (
     "IdTransaccion" TEXT UNIQUE,
+    "Identificador" TEXT UNIQUE,
     "Instante"      INTEGER,
     "Cantidade"     TEXT,
-    "IdDivisa"      TEXT,
-    "IdConta"       TEXT,
-    "Nome"          TEXT,
+    "CantDivisa"    TEXT,
+    "De"	        TEXT,
+    "Para"		    TEXT,
+    "Motivo"	    TEXT,
+    "TaxaCant"	    INTEGER,
+    "TaxaDivisa"    TEXT,
     "Notas"         TEXT,
+    "TipoOperacion" TEXT,
     CONSTRAINT transaccionPK PRIMARY KEY ("IdTransaccion"),
-    CONSTRAINT transaccionFK1 FOREIGN KEY ("IdDivisa") REFERENCES "Divisa" ("IdDivisa"),
-    CONSTRAINT transacciónFK2 FOREIGN KEY ("IdConta") REFERENCES "Conta" ("IdConta")
+    CONSTRAINT transaccionFK1 FOREIGN KEY ("CantDivisa") REFERENCES "Divisa" ("IdDivisa"),
+    CONSTRAINT transacciónFK2 FOREIGN KEY ("TaxaDivisa") REFERENCES "Divisa" ("IdDivisa"),
+    CONSTRAINT transacciónFK3 FOREIGN KEY ("De") REFERENCES "Conta" ("IdConta"),
+    CONSTRAINT transacciónFK4 FOREIGN KEY ("Para") REFERENCES "Conta" ("IdConta")
 );
 
 CREATE TABLE "EtiquetadoTransaccion" (
