@@ -21,7 +21,7 @@ Programa para levar as finanzas. En proceso.
 
 ## Doazóns
 🙇🙇‍♀
-| Moeda     | Address                                                                                           |
+| Coin      | Address                                                                                           |
 | :---:     | :---                                                                                              |
 | Bitcoin   | bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6                                                        |
 | Monero    | 88Rezd6ZQzaCb1s7K1tRCiCaDzuHrfYsn4q348jJuePpLs84JNsWEghMAZZgzpDPrqD4PBxk7hwMkSdNQ4CLqFHyPVLdX1D   |
