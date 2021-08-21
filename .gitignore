@@ -1,3 +1,4 @@
 *.bd
 *.dia~
 *.pyc
+velho/*
