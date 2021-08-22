@@ -2,7 +2,7 @@
 ![PowerShell Gallery](https://img.shields.io/badge/plataforma-LiGNUx-lightgrey)
 ![PowerShell Gallery](https://img.shields.io/badge/language-Python-yellow)
 
-# caixab
+# CaixaB
 
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="galego" title="Galego">](doc/readmes/readme_gz.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">](doc/readmes/readme_en.md)
