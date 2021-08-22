@@ -122,24 +122,14 @@
        cx="130.15137"
        cy="122.93509"
        r="4.9691529" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.17633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+    <path
        id="rect3214-7"
-       width="23.521603"
-       height="48.071434"
-       x="183.22966"
-       y="202.50491"
-       rx="0"
-       ry="10.205107" />
-    <rect
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.17633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 193.43477,202.50491 h 3.11139 c 5.65363,0 10.2051,4.55148 10.2051,10.20511 v 27.66122 c 0,5.65363 -4.55147,10.20511 -10.2051,10.20511 h -3.11139 c -5.65363,0 -10.20511,-4.55148 -10.20511,-10.20511 v -27.66122 c 0,-5.65363 4.55148,-10.20511 10.20511,-10.20511 z" />
+    <path
        id="rect3214-7-5"
-       width="23.521603"
-       height="48.071434"
-       x="183.22966"
-       y="64.646362"
-       rx="0"
-       ry="10.205107" />
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.17633;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 193.43477,64.646362 h 3.11139 c 5.65363,0 10.2051,4.551478 10.2051,10.205107 v 27.661221 c 0,5.65363 -4.55147,10.20511 -10.2051,10.20511 h -3.11139 c -5.65363,0 -10.20511,-4.55148 -10.20511,-10.20511 V 74.851469 c 0,-5.653629 4.55148,-10.205107 10.20511,-10.205107 z" />
     <path
        id="rect3167-7"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.209092;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
