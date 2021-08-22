@@ -1,7 +1,7 @@
 ![PowerShell Gallery](https://img.shields.io/badge/plataforma-LiGNUx-lightgrey)
 ![PowerShell Gallery](https://img.shields.io/badge/language-Python-yellow)
 
-# CaixaB <img src="media/logo/caixab_logo.svg" width="25" alt="bitcoin logo" title="Bitcoin"> 
+# CaixaB <img align="center" src="media/logo/caixab_logo.svg" width="30" alt="CaixaB logo" title="CaixaB">
 
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/gz-0.svg" width="25" alt="Galego" title="Galego">](doc/readmes/readme_gz.md)
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="English" title="English">](doc/readmes/readme_en.md)
@@ -11,7 +11,11 @@
 
 Programa para levar as finanzas. En proceso.
 
-# 🙇🙇‍♀
+## Logo
+<img align="left" src="media/logo/caixab_logo.svg" width="300" alt="CaixaB logo" title="CaixaB">
+<img align="center" src="media/logo/caixab_logo_letras.svg" width="300" alt="CaixaB logo letras" title="CaixaB">
+
+## 🙇🙇‍♀
 
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin-0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
 bc1q79vja8jzr27dxaf3ylu7e49ady8zq0jsm5qfk6
