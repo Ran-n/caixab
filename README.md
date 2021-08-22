@@ -8,6 +8,8 @@
 [<img align="left" src="https://raw.githubusercontent.com/Ran-n/svgs/main/bandeiras/nacións/en-0.svg" width="27" alt="english" title="English">](doc/readmes/readme_en.md)
 <img align="center">
 
+Programa para levar as finanzas. En proceso.
+
 # 🙇🙇‍♀
 
 **Bitcoin** <img src="https://raw.githubusercontent.com/Ran-n/svgs/main/divisas/bitcoin/bitcoin-0.svg" width="20" alt="bitcoin logo" title="Bitcoin">  
