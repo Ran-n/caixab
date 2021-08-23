@@ -10,8 +10,8 @@ Explicaci\[u00F3]n sobre o desenho e os diversos puntos deste onde se fixeron de
 .NH 1
 Entidade Relaci\[u00F3]n
 .SH 2
-Diagrama Entidade Relaci\[u00F3]n:
-.PSPIC -C "doc/ER_simplificado.eps" 7
+Diagrama Entidade Relaci\[u00F3]n simplificado:
+.PSPIC -C "doc/BD/ER_simplificado.eps" 7
 
 .SH 2
 Que se tenta representar na BD?
@@ -19,17 +19,28 @@ Que se tenta representar na BD?
 O obxectivo \[u00E9] poder almacenar na BD todos os datos precisos relativos \[u00F3] manexamento das finanzas.
 Tanto a nivel de cartos nunha conta bancaria ou carteira (entidade "Conta"), como de metais preciosos tal que o ouro (entidade "Conta"); coa s\[u00FA]a correspondente divisa (euros, \[u20AC] ou gramos de ouro, gAu) (entidade "Divisa").
 .PP
-Tam\[u00E9]n se busca gardar informaci\[u00F3]n relativa \[u00F3]s activos (entidade "Activo") e o seu aporte econ\[u00F3]mico (tanto o custo inicial coma o beneficio de venta no caso dun cadro ou unha acci\[u00F3]n por exemplo ou o beneficio mensual no caso dunha casa alugada).
+Tam\[u00E9]n se busca gardar informaci\[u00F3]n relativa \[u00F3]s activos (entidade "Activo") e \[u00F3] seu aporte econ\[u00F3]mico (tanto o custo inicial coma o beneficio de venta no caso dun cadro ou unha acci\[u00F3]n por exemplo ou o beneficio mensual no caso dunha casa alugada).
 Amais, a s\[u00FA]a relaci\[u00F3]n coa entidade "Divisa", permite manter un valor actualizado do activo e un historial das fluctuaci\[u00F3]ns no prezo.
-Podendo as\[u00ED] saber en todo momento o seu valor, as\[u00ED] como a fluctuaci\[u00F3]n do prezo na inversi\[u00F3]n.
+Podendo as\[u00ED] saber en todo momento o seu valor, as\[u00ED] como a fluctuaci\[u00F3]n do prezo na inversi\[u00F3]n (mirando o que se pagou por el na primeira transacci\[u00F3]n na que aparece).
+Permite tam\[u00E9]n, poder calcular todos os beneficios ou gastos relacionados co activo.
+Por exemplo, de tratarse dun piso, o cobro do aluguer ter\[u00ED]a \[u00F3] activo do piso como activo na transacci\[u00F3]n.
+Isto complementa \[u00E1]s etiquetas, a\[u00ED]nda que tam\[u00E9]n poder\[u00ED]an usarse para obter estes mesmos datos de usarse con esa intenci\[u00F3]n.
 .PP
 A entidade divisa tam\[u00E9]n ter\[u00E1] unha relaci\[u00F3]n consigo mesma onde se ir\[u00E1]n gardando as fluctaci\[u00F3]ns de valor entre as distintas divisas (1 \[u20AC] = 2 $ en tal data, etc).
 .PP
 Todas as transacci\[u00F3]ns e activos contar\[u00E1]n cunha serie de tags (entidade "Tag") que servir\[u00E1]n para clasificar e agrupalos.
-Desta forma ser\[u00E1] moi sinxelo facer partici\[u00F3]ns e agrupamentos das transacci\[u00F3]ns l\[u00F3]xicas en forma de gr\[u00E1]ficas ou resumos de gastos.
+Desta forma ser\[u00E1] moi sinxelo facer partici\[u00F3]ns e agrupamentos das transacci\[u00F3]ns l\[u00F3]xicas en forma de gr\[u00E1]ficas ou resumos de gastos e beneficios.
 .PP
-Tam\[u00E9]n se gardar\[u00E1] a relaci\[u00F3]n entre a divisa e os seus c\[u00E9]ntimos para saber que subdivisas ten unha divisa.
+Tam\[u00E9]n se gardar\[u00E1] a relaci\[u00F3]n entre a divisa e os seus c\[u00E9]ntimos para saber que subdivisas ten unha divisa e cando equivale.
 Por exemplo do euro os c\[u00E9]ntimos ou do bitcoin os satoshis.
+
+.SH 2
+Diagrama Entidade Relaci\[u00F3]n completo:
+.PSPIC -C "doc/BD/ER.eps" 7
+
+.SH 2
+Atributos das Entidades:
+.PSPIC -C "doc/BD/ER_atributos.eps" 5
 
 .SH
 D\[u00FA]bidas com\[u00FA]ns
@@ -82,6 +93,13 @@ O s\[u00ED]mbolo +/- indicar\[u00E1] se \[u00E9] a conta de orixe ou destino.
 Desta forma, cada transacci\[u00F3]n real corresp\[u00F3]ndese con d\[u00FA]as na BD
 (por exemplo: Unha transacci\[u00F3]n de 20\[u20AC] traducir\[u00ED]ase tal que -20 na conta 1 e +20 na conta 2.
 O atributo "N\[u00FA]mero de transacci\[u00F3]n" permite logo poder recordar que estas d\[u00FA]as transacci\[u00F3]ns da BD se corresponden cunha mesma transacci\[u00F3]n l\[u00F3]xica).
+
+.NH 2
+Por que "Activo" non ten relaci\[u00F3]n total con "Transacci\[u00F3]n"?
+.PP
+Desta forma perm\[u00ED]tese engadir activos sen ter que estar referenciados en ningunha transacci\[u00F3]n.
+Isto \[u00E9] extremadamente \[u00FA]til para a hora de poblar inicialmente \[u00E1] BD.
+Despois, o \[u00FA]nico caso para o que ser\[u00ED]a interesante ser\[u00ED]a o dos agasallos; pero a creaci\[u00F3]n dunha transacci\[u00F3]n sen conta e, de competer, sen divisa e valor \[u00E9] unha mellor soluci\[u00F3]n.
 
 .NH 2
 Por que a relaci\[u00F3]n Transacci\[u00F3]n-Divisa \[u00E9] N-1 e non N-1..2?
