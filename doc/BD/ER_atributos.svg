@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
-<svg width="42cm" height="18cm" viewBox="-369 -202 826 353" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="42cm" height="18cm" viewBox="-369 -202 826 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <g>
     <rect style="fill: #ffffff" x="-367.39" y="-200.402" width="310.3" height="28"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-367.39" y="-200.402" width="310.3" height="28"/>
     <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-212.24" y="-181.402">Conta</text>
     <rect style="fill: #ffffff" x="-367.39" y="-172.402" width="310.3" height="132"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-367.39" y="-172.402" width="310.3" height="132"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-364.39" y="-158.402"> Id: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-364.39" y="-158.402"> Identificador: Catex</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-364.39" y="-142.402"> Nome: Catex</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-364.39" y="-126.402"> Icona: Imaxe</text>
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-364.39" y="-110.402"> Descripción: Catex</text>
@@ -58,19 +58,20 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-36.0822" y="-46.2245"> Marca de tempo: Enteiro</text>
   </g>
   <g>
-    <rect style="fill: #ffffff" x="-127.632" y="-9.95646" width="341.1" height="28"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-127.632" y="-9.95646" width="341.1" height="28"/>
-    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="42.9178" y="9.04354">Divisa</text>
-    <rect style="fill: #ffffff" x="-127.632" y="18.0435" width="341.1" height="132"/>
-    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-127.632" y="18.0435" width="341.1" height="132"/>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="32.0435"> Identificador: Catex</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="48.0435"> Nome: Catex</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="64.0435"> Descripción: Catex</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="80.0435"> Símbolo: Catex</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="96.0435"> Abreviatura: Catex</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="112.044"> Data Creación: Data</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="128.044"> Data Fin: Data</text>
-    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-124.632" y="144.044"> Territorio: String = Estado; Internacional</text>
+    <rect style="fill: #ffffff" x="-129.469" y="-18.7736" width="341.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-129.469" y="-18.7736" width="341.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="41.0809" y="0.226386">Divisa</text>
+    <rect style="fill: #ffffff" x="-129.469" y="9.22639" width="341.1" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-129.469" y="9.22639" width="341.1" height="148"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="23.2264"> Identificador: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="39.2264"> Nome: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="55.2264"> Descripción: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="71.2264"> Símbolo: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="87.2264"> Abreviatura: Catex</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="103.226"> Data Creación: Data</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="119.226"> Data Fin: Data</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="135.226"> Territorio: String = Estado; Internacional</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-126.469" y="151.226"> Países de curso legal: Catex</text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="259.433" y="-11.4101" width="171.7" height="28"/>
