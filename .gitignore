@@ -1,4 +1,4 @@
 *.bd
-*.dia*
+*.dia~
 *.pyc
 velho/*
