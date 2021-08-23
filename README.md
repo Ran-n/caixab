@@ -6,7 +6,7 @@
 <img align="center">
 ---
 
-# <img src="media/logo/caixab_logo_e_letras_horizontal.svg" width="300" alt="CaixaB logo" title="CaixaB">
+# <img src="media/logo/caixab_logo_e_letras_horizontal.svg" width="200" alt="CaixaB logo" title="CaixaB">
 
 Programa para levar as finanzas. En proceso.
 
