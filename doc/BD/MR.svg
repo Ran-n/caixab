@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="56cm" height="32cm" viewBox="120 -26 1107 629" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="302.049" y="195.756" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="302.049" y="195.756" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="415.149" y="209.756">Conta</text>
+    <rect style="fill: #ffffff" x="302.049" y="213.756" width="226.2" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="302.049" y="213.756" width="226.2" height="148"/>
+    <polygon style="fill: #000000" points="305.049,223.756 307.049,226.756 309.049,223.756 307.049,220.756 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="311.049" y="229.756">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="467.349" y="229.756">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="311.049" y1="231.356" x2="505.849" y2="231.356"/>
+    <ellipse style="fill: #000000" cx="307.049" cy="239.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="245.756">Nome</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="245.756">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="307.049" cy="255.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="261.756">Icona</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="261.756">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="307.049" cy="271.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="277.756">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="277.756">Catex</text>
+    <ellipse style="fill: #000000" cx="307.049" cy="287.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="293.756">Saldo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="293.756">Enteiro</text>
+    <ellipse style="fill: #000000" cx="307.049" cy="303.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="309.756">Data de creación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="309.756">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="307.049" cy="319.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="325.756">Data de eliminación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="325.756">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="307.049" cy="335.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="341.756">Tipo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="341.756">Catex</text>
+    <ellipse style="fill: #000000" cx="307.049" cy="351.756" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="311.049" y="357.756">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="467.349" y="357.756">Catex</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="931.232" y="229.973" width="295.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="931.232" y="229.973" width="295.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1078.98" y="243.973">Transacción</text>
+    <rect style="fill: #ffffff" x="931.232" y="247.973" width="295.5" height="180"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="931.232" y="247.973" width="295.5" height="180"/>
+    <polygon style="fill: #000000" points="934.232,257.973 936.232,260.973 938.232,257.973 936.232,254.973 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="940.232" y="263.973">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1165.83" y="263.973">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="940.232" y1="265.573" x2="1204.33" y2="265.573"/>
+    <ellipse style="fill: #000000" cx="936.232" cy="273.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="279.973">Número de transacción lóxica</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="279.973">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="289.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="295.973">Cantidade</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="295.973">Enteiro</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="305.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="311.973">Taxa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="311.973">Enteiro</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="321.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="327.973">TTSN</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="327.973">Enteiro</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="337.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="343.973">Título</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="343.973">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="353.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="359.973">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="359.973">Catex</text>
+    <ellipse style="fill: #000000" cx="936.232" cy="369.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="375.973">Marca de tempo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="375.973">Enteiro</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="385.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="391.973">IdConta</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="391.973">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="401.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="407.973">IdActivo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="407.973">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="936.232" cy="417.973" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="940.232" y="423.973">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1165.83" y="423.973">Catex</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="931.232" y1="385.973" x2="537.281" y2="227.392"/>
+    <polygon style="fill: #000000" points="530.324,224.591 541.467,223.687 537.281,227.392 537.733,232.963 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="530.324,224.591 541.467,223.687 537.281,227.392 537.733,232.963 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="330.146" y="-25.0512" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="330.146" y="-25.0512" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="435.546" y="-11.0512">Etiqueta</text>
+    <rect style="fill: #ffffff" x="330.146" y="-7.05122" width="210.8" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="330.146" y="-7.05122" width="210.8" height="84"/>
+    <polygon style="fill: #000000" points="333.146,2.94878 335.146,5.94878 337.146,2.94878 335.146,-0.0512247 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="339.146" y="8.94878">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="495.446" y="8.94878">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="339.146" y1="10.5488" x2="533.946" y2="10.5488"/>
+    <ellipse style="fill: #000000" cx="335.146" cy="18.9488" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="339.146" y="24.9488">Nome</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.446" y="24.9488">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="335.146" cy="34.9488" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="339.146" y="40.9488">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.446" y="40.9488">Catex</text>
+    <ellipse style="fill: #000000" cx="335.146" cy="50.9488" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="339.146" y="56.9488">Data de creación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.446" y="56.9488">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="335.146" cy="66.9488" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="339.146" y="72.9488">Data de eliminación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="495.446" y="72.9488">Data</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="572.156" y="93.5411" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="572.156" y="93.5411" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="677.556" y="107.541">Activo</text>
+    <rect style="fill: #ffffff" x="572.156" y="111.541" width="210.8" height="132"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="572.156" y="111.541" width="210.8" height="132"/>
+    <polygon style="fill: #000000" points="575.156,121.541 577.156,124.541 579.156,121.541 577.156,118.541 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="581.156" y="127.541">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="737.456" y="127.541">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="581.156" y1="129.141" x2="775.956" y2="129.141"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="137.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="143.541">Nome</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="143.541">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="153.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="159.541">Icona</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="159.541">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="169.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="175.541">Foto</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="175.541">Foto</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="185.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="191.541">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="191.541">Catex</text>
+    <ellipse style="fill: #000000" cx="577.156" cy="201.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="207.541">Data de creación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="207.541">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="217.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="223.541">Data de eliminación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="223.541">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="577.156" cy="233.541" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="581.156" y="239.541">Data de destrucción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="737.456" y="239.541">Data</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="931.232" y1="401.973" x2="787.507" y2="130.148"/>
+    <polygon style="fill: #000000" points="784.001,123.518 793.096,130.021 787.507,130.148 784.255,134.695 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="784.001,123.518 793.096,130.021 787.507,130.148 784.255,134.695 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="601.559" y="381.826" width="210.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="601.559" y="381.826" width="210.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="706.959" y="395.826">Divisa</text>
+    <rect style="fill: #ffffff" x="601.559" y="399.826" width="210.8" height="132"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="601.559" y="399.826" width="210.8" height="132"/>
+    <polygon style="fill: #000000" points="604.559,409.826 606.559,412.826 608.559,409.826 606.559,406.826 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="610.559" y="415.826">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="766.859" y="415.826">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="610.559" y1="417.426" x2="805.359" y2="417.426"/>
+    <ellipse style="fill: #000000" cx="606.559" cy="425.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="431.826">Nome</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="431.826">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="606.559" cy="441.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="447.826">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="447.826">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="606.559" cy="457.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="463.826">Símbolo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="463.826">Catex</text>
+    <ellipse style="fill: #000000" cx="606.559" cy="473.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="479.826">Abreviatura</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="479.826">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="606.559" cy="489.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="495.826">Data de creación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="495.826">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="606.559" cy="505.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="511.826">Data de eliminación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="511.826">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="606.559" cy="521.826" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="610.559" y="527.826">Territorio</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="766.859" y="527.826">Catex</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="931.232" y1="417.973" x2="822.072" y2="410.492"/>
+    <polygon style="fill: #000000" points="814.589,409.979 824.908,405.674 822.072,410.492 824.224,415.651 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="814.589,409.979 824.908,405.674 822.072,410.492 824.224,415.651 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="528.249" y1="351.756" x2="593.927" y2="403.781"/>
+    <polygon style="fill: #000000" points="599.806,408.437 588.862,406.148 593.927,403.781 595.072,398.309 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="599.806,408.437 588.862,406.148 593.927,403.781 595.072,398.309 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="339.492" y="432.966" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="339.492" y="432.966" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="452.592" y="446.966">Céntimos</text>
+    <rect style="fill: #ffffff" x="339.492" y="450.966" width="226.2" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="339.492" y="450.966" width="226.2" height="148"/>
+    <polygon style="fill: #000000" points="342.492,460.966 344.492,463.966 346.492,460.966 344.492,457.966 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="348.492" y="466.966">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="504.792" y="466.966">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="348.492" y1="468.566" x2="543.292" y2="468.566"/>
+    <polygon style="fill: #000000" points="342.492,476.966 344.492,479.966 346.492,476.966 344.492,473.966 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="348.492" y="482.966">Identificador</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="504.792" y="482.966">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="348.492" y1="484.566" x2="543.292" y2="484.566"/>
+    <ellipse style="fill: #000000" cx="344.492" cy="492.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="498.966">Nome</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="498.966">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.492" cy="508.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="514.966">Descripción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="514.966">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.492" cy="524.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="530.966">Símbolo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="530.966">Catex</text>
+    <ellipse style="fill: #000000" cx="344.492" cy="540.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="546.966">Abreviatura</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="546.966">Catex</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.492" cy="556.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="562.966">Data de creación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="562.966">Data</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.492" cy="572.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="578.966">Data de eliminación</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="578.966">Data</text>
+    <ellipse style="fill: #000000" cx="344.492" cy="588.966" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.492" y="594.966">Cantidade</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="504.792" y="594.966">Enteiro</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="565.692" y1="460.966" x2="595.968" y2="417.797"/>
+    <polygon style="fill: #000000" points="600.275,411.657 598.626,422.715 595.968,417.797 590.439,416.973 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600.275,411.657 598.626,422.715 595.968,417.797 590.439,416.973 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="121.647" y="131.514" width="141.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.647" y="131.514" width="141.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="192.397" y="145.514">Etiqueta-Conta</text>
+    <rect style="fill: #ffffff" x="121.647" y="149.514" width="141.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="121.647" y="149.514" width="141.5" height="36"/>
+    <polygon style="fill: #000000" points="124.647,159.514 126.647,162.514 128.647,159.514 126.647,156.514 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="130.647" y="165.514">IdEtiqueta</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="217.647" y="165.514">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="130.647" y1="167.114" x2="256.147" y2="167.114"/>
+    <polygon style="fill: #000000" points="124.647,175.514 126.647,178.514 128.647,175.514 126.647,172.514 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="130.647" y="181.514">IdConta</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="217.647" y="181.514">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="130.647" y1="183.114" x2="256.147" y2="183.114"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="263.147" y1="159.514" x2="326.316" y2="11.8997"/>
+    <polygon style="fill: #000000" points="329.266,5.00452 329.929,16.1652 326.316,11.8997 320.735,12.231 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="329.266,5.00452 329.929,16.1652 326.316,11.8997 320.735,12.231 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="263.147" y1="175.514" x2="295.938" y2="216.177"/>
+    <polygon style="fill: #000000" points="300.646,222.015 290.476,217.37 295.938,216.177 298.261,211.092 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="300.646,222.015 290.476,217.37 295.938,216.177 298.261,211.092 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="120.217" y="38.6644" width="141.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120.217" y="38.6644" width="141.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="190.967" y="52.6644">Etiqueta-Activo</text>
+    <rect style="fill: #ffffff" x="120.217" y="56.6644" width="141.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="120.217" y="56.6644" width="141.5" height="36"/>
+    <polygon style="fill: #000000" points="123.217,66.6644 125.217,69.6644 127.217,66.6644 125.217,63.6644 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="129.217" y="72.6644">IdEtiqueta</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="216.217" y="72.6644">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="129.217" y1="74.2644" x2="254.717" y2="74.2644"/>
+    <polygon style="fill: #000000" points="123.217,82.6644 125.217,85.6644 127.217,82.6644 125.217,79.6644 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="129.217" y="88.6644">IdActivo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="216.217" y="88.6644">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="129.217" y1="90.2644" x2="254.717" y2="90.2644"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="261.717" y1="66.6644" x2="323.021" y2="9.58344"/>
+    <polygon style="fill: #000000" points="328.51,4.47255 324.598,14.9464 323.021,9.58344 317.784,7.62776 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="328.51,4.47255 324.598,14.9464 323.021,9.58344 317.784,7.62776 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="261.717" y1="82.6644" x2="562.495" y2="120.331"/>
+    <polygon style="fill: #000000" points="569.937,121.263 559.394,124.982 562.495,120.331 560.636,115.059 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="569.937,121.263 559.394,124.982 562.495,120.331 560.636,115.059 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="594.821" y="-2.94737" width="164.6" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594.821" y="-2.94737" width="164.6" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="677.121" y="11.0526">Etiqueta-Transacción</text>
+    <rect style="fill: #ffffff" x="594.821" y="15.0526" width="164.6" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="594.821" y="15.0526" width="164.6" height="36"/>
+    <polygon style="fill: #000000" points="597.821,25.0526 599.821,28.0526 601.821,25.0526 599.821,22.0526 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="603.821" y="31.0526">IdEtiqueta</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="713.921" y="31.0526">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="603.821" y1="32.6526" x2="752.421" y2="32.6526"/>
+    <polygon style="fill: #000000" points="597.821,41.0526 599.821,44.0526 601.821,41.0526 599.821,38.0526 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="603.821" y="47.0526">IdTransacción</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="713.921" y="47.0526">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="603.821" y1="48.6526" x2="752.421" y2="48.6526"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="594.821" y1="25.0526" x2="549.954" y2="6.64437"/>
+    <polygon style="fill: #000000" points="543.015,3.79754 554.164,2.96751 549.954,6.64437 550.369,12.2191 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="543.015,3.79754 554.164,2.96751 549.954,6.64437 550.369,12.2191 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="759.421" y1="41.0526" x2="925.187" y2="250.341"/>
+    <polygon style="fill: #000000" points="929.843,256.22 919.715,251.486 925.187,250.341 927.554,245.277 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="929.843,256.22 919.715,251.486 925.187,250.341 927.554,245.277 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="981.994" y="40.8284" width="187.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="981.994" y="40.8284" width="187.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1075.84" y="54.8284">Activo-Divisa</text>
+    <rect style="fill: #ffffff" x="981.994" y="58.8284" width="187.7" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="981.994" y="58.8284" width="187.7" height="68"/>
+    <polygon style="fill: #000000" points="984.994,68.8284 986.994,71.8284 988.994,68.8284 986.994,65.8284 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="990.994" y="74.8284">IdActivo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1108.79" y="74.8284">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="990.994" y1="76.4284" x2="1147.29" y2="76.4284"/>
+    <polygon style="fill: #000000" points="984.994,84.8284 986.994,87.8284 988.994,84.8284 986.994,81.8284 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="990.994" y="90.8284">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1108.79" y="90.8284">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="990.994" y1="92.4284" x2="1147.29" y2="92.4284"/>
+    <polygon style="fill: #000000" points="984.994,100.828 986.994,103.828 988.994,100.828 986.994,97.8284 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="990.994" y="106.828">Marca de tempo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1108.79" y="106.828">Enteiro</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="990.994" y1="108.428" x2="1162.69" y2="108.428"/>
+    <ellipse style="fill: #000000" cx="986.994" cy="116.828" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="990.994" y="122.828">Valor</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1108.79" y="122.828">Enteiro</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="981.994" y1="68.8284" x2="792.368" y2="119.049"/>
+    <polygon style="fill: #000000" points="785.118,120.969 793.504,113.575 792.368,119.049 796.064,123.242 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="785.118,120.969 793.504,113.575 792.368,119.049 796.064,123.242 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="981.994" y1="84.8284" x2="816.864" y2="401.195"/>
+    <polygon style="fill: #000000" points="813.393,407.844 813.588,396.665 816.864,401.195 822.453,401.292 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="813.393,407.844 813.588,396.665 816.864,401.195 822.453,401.292 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="949.058" y="449.964" width="187.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="949.058" y="449.964" width="187.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1042.91" y="463.964">Divisa-Divisa</text>
+    <rect style="fill: #ffffff" x="949.058" y="467.964" width="187.7" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="949.058" y="467.964" width="187.7" height="68"/>
+    <polygon style="fill: #000000" points="952.058,477.964 954.058,480.964 956.058,477.964 954.058,474.964 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="958.058" y="483.964">IdDivisa1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1075.86" y="483.964">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="958.058" y1="485.564" x2="1114.36" y2="485.564"/>
+    <polygon style="fill: #000000" points="952.058,493.964 954.058,496.964 956.058,493.964 954.058,490.964 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="958.058" y="499.964">IdDivisa2</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1075.86" y="499.964">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="958.058" y1="501.564" x2="1114.36" y2="501.564"/>
+    <polygon style="fill: #000000" points="952.058,509.964 954.058,512.964 956.058,509.964 954.058,506.964 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="958.058" y="515.964">Marca de tempo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1075.86" y="515.964">Enteiro</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="958.058" y1="517.564" x2="1129.76" y2="517.564"/>
+    <ellipse style="fill: #000000" cx="954.058" cy="525.964" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="958.058" y="531.964">Valor</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1075.86" y="531.964">Enteiro</text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="949.058" y1="477.964" x2="821.072" y2="414.169"/>
+    <polygon style="fill: #000000" points="814.36,410.823 825.54,410.81 821.072,414.169 821.079,419.759 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="814.36,410.823 825.54,410.81 821.072,414.169 821.079,419.759 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="949.058" y1="493.964" x2="820.65" y2="414.929"/>
+    <polygon style="fill: #000000" points="814.263,410.998 825.4,411.982 820.65,414.929 820.158,420.498 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="814.263,410.998 825.4,411.982 820.65,414.929 820.158,420.498 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="159.331" y="434.594" width="133.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="159.331" y="434.594" width="133.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="226.231" y="448.594">Valores-&gt;Céntimo</text>
+    <rect style="fill: #ffffff" x="159.331" y="452.594" width="133.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="159.331" y="452.594" width="133.8" height="52"/>
+    <polygon style="fill: #000000" points="162.331,462.594 164.331,465.594 166.331,462.594 164.331,459.594 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="168.331" y="468.594">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="247.631" y="468.594">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="168.331" y1="470.194" x2="286.131" y2="470.194"/>
+    <polygon style="fill: #000000" points="162.331,478.594 164.331,481.594 166.331,478.594 164.331,475.594 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="168.331" y="484.594">IdCéntimo</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="247.631" y="484.594">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="168.331" y1="486.194" x2="286.131" y2="486.194"/>
+    <polygon style="fill: #000000" points="162.331,494.594 164.331,497.594 166.331,494.594 164.331,491.594 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="168.331" y="500.594">Valor</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="247.631" y="500.594">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="168.331" y1="502.194" x2="286.131" y2="502.194"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="293.131" y1="462.594" x2="329.762" y2="461.307"/>
+    <polygon style="fill: #000000" points="337.257,461.044 327.439,466.392 329.762,461.307 327.088,456.398 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="337.257,461.044 327.439,466.392 329.762,461.307 327.088,456.398 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="293.131" y1="478.594" x2="329.762" y2="477.307"/>
+    <polygon style="fill: #000000" points="337.257,477.044 327.439,482.392 329.762,477.307 327.088,472.398 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="337.257,477.044 327.439,482.392 329.762,477.307 327.088,472.398 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="949.79" y="549.503" width="211.7" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="949.79" y="549.503" width="211.7" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1055.64" y="563.503">DivisaPaísesCursoLegal-&gt;Divisa</text>
+    <rect style="fill: #ffffff" x="949.79" y="567.503" width="211.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="949.79" y="567.503" width="211.7" height="36"/>
+    <polygon style="fill: #000000" points="952.79,577.503 954.79,580.503 956.79,577.503 954.79,574.503 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="958.79" y="583.503">IdDivisa</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1030.39" y="583.503">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="958.79" y1="585.103" x2="1068.89" y2="585.103"/>
+    <polygon style="fill: #000000" points="952.79,593.503 954.79,596.503 956.79,593.503 954.79,590.503 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="958.79" y="599.503">IdPaís</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:700" x="1030.39" y="599.503">Catex</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="958.79" y1="601.103" x2="1068.89" y2="601.103"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="949.79" y1="577.503" x2="818.53" y2="417.356"/>
+    <polygon style="fill: #000000" points="813.776,411.555 823.982,416.12 818.53,417.356 816.248,422.459 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="813.776,411.555 823.982,416.12 818.53,417.356 816.248,422.459 "/>
+  </g>
+</svg>
