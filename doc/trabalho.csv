@@ -1,8 +1,9 @@
 data,actividade,minutos,
-20210818,desenho BD,63
-20210819,desenho BD,345
-20210820,desenho BD,328
-20210821,desenho BD,350
-20210822,desenho BD,100
-20210822,desenho logo,150
-20210823,desenho BD,353
+20210818,desenho BD,desenho ER,63
+20210819,desenho BD,desenho ER,345
+20210820,desenho BD,desenho ER,328
+20210821,desenho BD,desenho ER,350
+20210822,desenho BD,desenho ER,100
+20210822,desenho logo,,150
+20210823,desenho BD,desenho ER,353
+20210824,desenho BD,desenho MR,180
