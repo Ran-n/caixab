@@ -10,6 +10,9 @@
 
 Programa para levar as finanzas. En proceso.
 
+xFCR:
+- Meter o tipo da divisa (crypto, token, fiat).
+
 ## Logo
 <img align="left" src="media/logo/caixab_logo.svg" width="300" alt="CaixaB logo" title="CaixaB">
 <img align="center" src="media/logo/caixab_logo_e_letras.svg" width="300" alt="CaixaB logo letras" title="CaixaB">
